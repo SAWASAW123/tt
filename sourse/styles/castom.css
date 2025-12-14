@@ -1,0 +1,23 @@
+.tc1:hover {
+color: rgb(255, 255, 255);
+}
+.tc2:hover {
+color: rgb(255, 255, 255);
+}
+
+.bc1 {
+    background-color: orange;
+}
+.bc2 {
+    background-color: aqua;
+}
+.bc3 {
+    background-color: white;
+}
+
+.tc1 {
+    color: aqua;
+}
+.tc2 {
+    color: orange;
+}

@@ -1,0 +1,121 @@
+.dc {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.pv {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.ut {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 1px;
+    border-bottom: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.lbl {
+    border-left: 0px;
+    border-right: 1px;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.rbl {
+    border-left: 1px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.tbl {
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 0px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.libl {
+    border-left: 1px;
+    border-right: 0px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.tibl {
+    border-left: 1px;
+    border-right: 0px;
+    border-top: 1px;
+    border-bottom: 0px;
+    border-color: black;
+    border-style: solid;
+}
+
+.logo {
+    height: 12%;
+    align-content: center;
+}
+
+.panel {
+    height: 76%;
+}
+
+.lbtext {
+    height: 15%;
+    align-content: center;
+}
+
+.settyn {
+    height: 12%;
+    align-content: center;
+}
+
+.tyn-inf {
+    height: 88%;
+}
+
+.line {
+    height: 8%;
+}
+
+.timer {
+    height: 4%;
+}
+
+
+.icon {
+    width: 100%;
+}
+.iimg {
+    width: 100%;
+    height: 100%;
+}
+
+.act {
+    width: 100%;
+    height: 10%;
+}
+
+.min-icon {
+height: 100px;
+}
+
